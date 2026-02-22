@@ -28,12 +28,12 @@
 
 - **我的貢獻**：
   - **UI/UX 設計**：使用 Figma 規劃前後台入口、關於Recimo、會員權益、前台登入/註冊燈箱、會員中心、通知及後台登入等 Wireframe 、 Mockup 與 Prototype。
-  - **前後台開發**：主導會員系統、商城模組（商品卡片、詳細頁、購物車）、關於Recimo及其前後端資料對接。
+  - **前後台開發**：主導前後台入口頁、會員系統、商城模組（商品卡片、詳細頁、購物車）、關於Recimo及其前後端資料對接。
   - **核心技術**：Vue 3、 SCSS、 Pinia、 Vue Router、 PHP、 MySQL。
   - **功能整合**：第三方登入 (Google/FB/Line)、路由守衛 (Navigation Guards)、商城模組。
 
 ### <img width="40" alt="image" src="https://supeii481.github.io/Zusic_website/img/zusic-logo.svg" /> [個人專題] Zusic租樂趣-快速租借樂器網站
-**[🔗 Demo](https://supeii481.github.io/Zusic_website/index.html) | [專案簡報](https://drive.google.com/file/d/1e3z7I6nADvUh1NM-oMA0vWk9NR-C0FGt/view?usp=drive_link)
+**[🔗 Demo](https://supeii481.github.io/Zusic_website/index.html) | [專案簡報](https://drive.google.com/file/d/1e3z7I6nADvUh1NM-oMA0vWk9NR-C0FGt/view?usp=drive_link)**
 
 - **開發背景**：學習前端未滿兩個月的首項作品。在極短時間內從設計及程式小白到獨立完成 RWD 網站開發。
 - **網站簡介**：為了降低學習樂器的入門門檻，讓想練習樂器但身邊沒有樂器，或是樂器不方便攜帶的人，有一個網站可以方便地借到樂器來練習，可以即時的享受樂器所帶來的樂趣。
