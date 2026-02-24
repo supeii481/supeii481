@@ -25,14 +25,24 @@
 
 - **開發動機**：
   - 源於自身親友的真實需求，希望能建立一個直覺好上手且具備筆記功能的食譜筆記平台。
+    
 - **專題簡介**：
   - 我們深知紙本筆記容易丟失、數位貼上又缺乏彈性，尤其當想在食譜上自由編輯筆記、新增圖片註記時，會極為不便。因此我們希望打造一個如notion結合線上食譜圖書館般自由的數位研究室，讓使用者不僅能輕鬆紀錄，也能精準掌握配方差異，讓每一次烹飪都是一次高效、智慧且可追蹤的美味創作。
 
-- **我的貢獻**：
-  - **UI/UX 設計**：使用 Figma 規劃前後台入口、關於Recimo、會員權益、前台登入/註冊燈箱、會員中心、通知及後台登入等 Wireframe 、 Mockup 與 Prototype。
-  - **前後台開發**：主導前後台入口頁、會員系統、商城模組（商品卡片、詳細頁、購物車）、關於Recimo及其前後端資料對接。
-  - **核心技術**：Vue 3、 SCSS、 Pinia、 Vue Router、 PHP、 MySQL。
-  - **功能整合**：第三方登入 (Google/FB/Line)、路由守衛 (Navigation Guards)、商城模組。
+- **專案貢獻與核心技術**：
+  - **UI/UX 設計**：
+    - 使用 Figma 獨立規劃前後台入口、關於 Recimo、會員權益、前台登入/註冊燈箱、會員中心、通知及後台登入之 Wireframe、Mockup 與 Prototype。
+  - **前後台開發**：
+    - 主導前後台入口頁、關於 Recimo 頁面開發。
+    - **商城模組**：實現商品卡片渲染、商品詳細頁邏輯、購物車增刪改查功能。
+    - **完整會員系統**：開發包含登入註冊、**忘記密碼流程、個人頭貼全站連動更新**及資料中心。
+  - **核心技術運用**：
+    - **前端框架**：Vue 3 組合式 API、SCSS 模組化樣式。
+    - **狀態管理**：使用 **Pinia** 處理跨組件資料同步（如會員資訊、購物車狀態）。
+    - **路由控制**：使用 **Vue Router** 實作動態路由與**路由守衛 (Navigation Guards)** 確保權限安全。
+    - **後端整合**：使用 **PHP** 撰寫 API 與 **MySQL** 資料庫進行前後端資料對接。
+  - **第三方功能整合**：
+    - **社群登入**：串接 **Google / Facebook / Line** 第三方登入 API。
 
 ### <img width="40" alt="image" src="https://raw.githubusercontent.com/supeii481/Zusic_website/6423656f65ef2be00c879b1fe50d328feb356bdb/img/Zusic-logo-small.svg" /> [個人專題] Zusic租樂趣-快速租借樂器網站
 **[🔗 Demo](https://supeii481.github.io/Zusic_website/index.html) | [📜專案簡報](https://drive.google.com/file/d/1e3z7I6nADvUh1NM-oMA0vWk9NR-C0FGt/view?usp=drive_link)**
