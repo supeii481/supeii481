@@ -32,7 +32,7 @@
   - **核心技術**：Vue 3、 SCSS、 Pinia、 Vue Router、 PHP、 MySQL。
   - **功能整合**：第三方登入 (Google/FB/Line)、路由守衛 (Navigation Guards)、商城模組。
 
-### <img width="40" alt="image" src="https://supeii481.github.io/Zusic_website/img/zusic-logo.svg" /> [個人專題] Zusic租樂趣-快速租借樂器網站
+### <img width="40" alt="image" src="https://raw.githubusercontent.com/supeii481/Zusic_website/6423656f65ef2be00c879b1fe50d328feb356bdb/img/Zusic-logo-small.svg" /> [個人專題] Zusic租樂趣-快速租借樂器網站
 **[🔗 Demo](https://supeii481.github.io/Zusic_website/index.html) | [專案簡報](https://drive.google.com/file/d/1e3z7I6nADvUh1NM-oMA0vWk9NR-C0FGt/view?usp=drive_link)**
 
 - **開發背景**：學習前端未滿兩個月的首項作品。在極短時間內從設計及程式新手到獨立完成 RWD 網站開發。
