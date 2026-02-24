@@ -20,7 +20,7 @@
 ## <img width="40" alt="projects" src="https://github.com/user-attachments/assets/fe3ee58f-ad47-4b7e-80f5-79b36eab7e5a" /> 精選專案 | Featured Projects
 
 ### <img width="40" alt="image" src="https://tibamef2e.com/cjd102/g2/api/img/site/Recimo_avatar.svg" /> [小組專題] Recimo-食譜筆記網站
-**[🔗 Demo](https://tibamef2e.com/cjd102/g2/) | [🎬 影片演示](https://www.youtube.com/watch?v=Ti9WaaihIWA) | [專案簡報](https://drive.google.com/file/d/1JSVifu9X9QTcAMhD43dmvcUeuZNUT-qP/view) | [📄 系統文件](https://drive.google.com/file/d/1KFBa0OSVV8k4k5qAoByQz0BYtJy0y0Xz/view)**
+**[🔗 Demo](https://tibamef2e.com/cjd102/g2/) | [🎬 影片演示](https://www.youtube.com/watch?v=Ti9WaaihIWA) | [📜專案簡報](https://drive.google.com/file/d/1JSVifu9X9QTcAMhD43dmvcUeuZNUT-qP/view) | [📄 系統文件](https://drive.google.com/file/d/1KFBa0OSVV8k4k5qAoByQz0BYtJy0y0Xz/view)**
 
 
 - **開發動機**：源於自身親友的真實需求，希望能建立一個直覺好上手且具備筆記功能的食譜筆記平台。
@@ -33,7 +33,7 @@
   - **功能整合**：第三方登入 (Google/FB/Line)、路由守衛 (Navigation Guards)、商城模組。
 
 ### <img width="40" alt="image" src="https://raw.githubusercontent.com/supeii481/Zusic_website/6423656f65ef2be00c879b1fe50d328feb356bdb/img/Zusic-logo-small.svg" /> [個人專題] Zusic租樂趣-快速租借樂器網站
-**[🔗 Demo](https://supeii481.github.io/Zusic_website/index.html) | [專案簡報](https://drive.google.com/file/d/1e3z7I6nADvUh1NM-oMA0vWk9NR-C0FGt/view?usp=drive_link)**
+**[🔗 Demo](https://supeii481.github.io/Zusic_website/index.html) | [📜專案簡報](https://drive.google.com/file/d/1e3z7I6nADvUh1NM-oMA0vWk9NR-C0FGt/view?usp=drive_link)**
 
 - **開發背景**：學習前端未滿兩個月的首項作品。在極短時間內從設計及程式新手到獨立完成 RWD 網站開發。
 - **網站簡介**：為了降低學習樂器的入門門檻，讓想練習樂器但身邊沒有樂器，或是樂器不方便攜帶的人，有一個網站可以方便地借到樂器來練習，可以即時的享受樂器所帶來的樂趣。
